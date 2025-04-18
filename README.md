@@ -6,6 +6,12 @@
 [![Dart版本](https://img.shields.io/badge/Dart-2.17.0+-blue.svg)](https://dart.dev)
 [![许可证](https://img.shields.io/badge/许可证-私有-red.svg)]()
 
+## 项目预览
+
+### 主页面 检测过程
+<img src="public/1.png" width="500" height="900" alt="主页面">
+<img src="public/2.png" width="500" height="900" alt="检测过程">
+
 ## 项目说明
 
 这是一个基于 Flutter 开发的手机硬件检测工具，提供全面的设备检测功能，帮助用户诊断设备性能、监测硬件状况并获取专业优化建议。通过简单直观的界面，用户可以轻松完成设备的全方位检测，及时发现潜在问题。本工具采用模块化架构设计，确保代码可维护性和扩展性。
@@ -592,13 +598,7 @@
 - **专业优化建议**
 - **分类评分展示**
 
-## 项目预览
 
-### 主页面
-<img src="public/1.png" width="400" height="800" alt="主页面">
-
-### 检测过程
-<img src="public/2.png" width="400" height="800" alt="检测过程">
 
 
 ## 技术栈
