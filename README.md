@@ -9,8 +9,7 @@
 ## 项目预览
 
 ### 主页面 检测过程
-<img src="public/1.png" width="500" height="900" alt="主页面">
-<img src="public/2.png" width="500" height="900" alt="检测过程">
+<img src="public/4.png">
 
 ## 项目说明
 
